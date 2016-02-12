@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Artist</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">START</string>
+    <string name="pause">PAUSE</string>
+    <string name="restart">RESTART</string>
+    <string name="email">Enter your email: </string>
+    <string name="save">Save to database</string>
+    <string name="send">Send email</string>
+    <string name="show">Show database</string>
+
+</resources>
